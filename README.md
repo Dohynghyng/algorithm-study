@@ -7,7 +7,7 @@
 |11052|S1|다이나믹 프로그래밍|[📄](https://www.acmicpc.net/problem/11052)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/11052.py)|🔴|
 |16194|S1|다이나믹 프로그래밍|[📄](https://www.acmicpc.net/problem/16194)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/16194.py)|🔵|
 |15990|S2|다이나믹 프로그래밍|[📄](https://www.acmicpc.net/problem/15990)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/15990.py)|🔵|
-|10884|S1|다이나믹 프로그래밍|[📄](https://www.acmicpc.net/problem/10884)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/10884.py)|🔵
+|10844|S1|다이나믹 프로그래밍|[📄](https://www.acmicpc.net/problem/10844)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/10844.py)|🔵
 
 
 <!--
