@@ -29,16 +29,25 @@
 | 9093  | B1 |자료 구조|[📄](https://www.acmicpc.net/problem/9093)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/9093.py)|🔵|||
 | 9012  | S4 |자료 구조|[📄](https://www.acmicpc.net/problem/9012)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/9012.py)|🔵|||
 | 1874  | S2 |자료 구조|[📄](https://www.acmicpc.net/problem/1874)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1874.py)|🔵|||
-|1406|S2|자료 구조|[📄](https://www.acmicpc.net/problem/1406)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1406.py)|🔵|||
-|10845|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10845)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10845.py)|🔵|||
-|1158|S4|자료 구조|[📄](https://www.acmicpc.net/problem/1158)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1158.py)|🔵|||
-|10866|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10866)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10866.py)|🔵|||
+|1406| S2 |자료 구조|[📄](https://www.acmicpc.net/problem/1406)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1406.py)|🔵|||
+|10845| S4 |자료 구조|[📄](https://www.acmicpc.net/problem/10845)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10845.py)|🔵|||
+|1158| S4 |자료 구조|[📄](https://www.acmicpc.net/problem/1158)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1158.py)|🔵|||
+|10866| S4 |자료 구조|[📄](https://www.acmicpc.net/problem/10866)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10866.py)|🔵|||
+|17404| G4 |자료 구조|[📄](https://www.acmicpc.net/problem/17404)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/17404.py)|🔴||24.05.16|
+|2309| B1 |자료 구조|[📄](https://www.acmicpc.net/problem/2309)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/2309.py)|🔵|||
+|1467|S5|자료 구조|[📄](https://www.acmicpc.net/problem/1467)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1467.py)|🔵|||
+
+
+
+
+
+
 
 <!--
-|10828|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10828)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10828.py)|🔵|| 24.05.14 |
+|10828|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10828)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10828.py)|🔵|| 24.05.16 |
 🔵⚪🔴
 
 
-|10866|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10866)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10866.py)|🔵|||
+|1467|S5|자료 구조|[📄](https://www.acmicpc.net/problem/1467)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1467.py)|🔵|||
 -->
 
