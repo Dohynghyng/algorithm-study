@@ -39,16 +39,20 @@
 |3085| S2 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/3085)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/3085.py)          |⚪|| 24.05.19 |
 |1107| G5 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/1107)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1107.py)          |🔵||          |
 |14500| G4 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/14500)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/14500.py)         |🔵||          |
-|6064| G4 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/6064)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6064.py)          |🔴||24.05.20|
-|1748| S4 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/1748)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1748.py)          |🔵|||
-|15649| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15649)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15649.py)             |⚪|||
-|15650| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15650)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15650.py)|🔵|||
-|15651| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15651)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15651.py)|🔵|||
-|15652| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15652)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15652.py)|🔵||24.05.22|
-|15654| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15654)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15654.py)|🔵|||
-|15655| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15655)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15655.py)|🔵|||
-|15656| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15656)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15656.py)|🔵|||
-|15657| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15657)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15657.py)|🔵|||
+|6064| G4 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/6064)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6064.py)          |🔴|| 24.05.20 |
+|1748| S4 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/1748)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1748.py)          |🔵||          |
+|15649| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15649)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15649.py)             |⚪||          |
+|15650| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15650)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15650.py)|🔵||          |
+|15651| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15651)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15651.py)|🔵||          |
+|15652| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15652)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15652.py)|🔵|| 24.05.21 |
+|15654| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15654)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15654.py)|🔵||          |
+|15655| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15655)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15655.py)|🔵||          |
+|15656| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15656)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15656.py)|🔵||          |
+|15657| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15657)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15657.py)|🔵||          |
+|15663| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15663)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15663.py)|🔴|| 24.05.22 |
+|15664| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15664)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15664.py)|🔵|||
+|15665| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15665)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15665.py)|🔵|||
+|15666| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15666)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15666.py)|🔵|||
 
 
 
@@ -62,6 +66,6 @@
 
 
 |10828|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10828)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10828.py)|🔵|| 24.05.16 |
-|15657| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15657)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15657.py)|🔵|||
+|10972| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔵|||
 -->
 
