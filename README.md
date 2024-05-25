@@ -69,6 +69,9 @@
 |15664| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15664)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15664.py)|🔵||          |
 |15665| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15665)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15665.py)|🔵||          |
 |15666| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15666)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15666.py)|🔵||          |
+|10972|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔴|| 24.05.25 |
+|10973|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10973)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10973.py)|🔵||  |
+|10819|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/10819)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10819.py)|🔵||  |
 
 
 
@@ -77,11 +80,11 @@
 
 
 <!--
-|10828|S4|자료 구조|[📄](https://www.acmicpc.net/problem/10828)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10828.py)|🔵|| 24.05.16 |
+|10972|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔵|| 24.05.25 |
 🔵⚪🔴
 
 
 
-|10972| S3 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔵|||
+|10971|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/10971)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10971.py)|🔵||  |
 -->
 
