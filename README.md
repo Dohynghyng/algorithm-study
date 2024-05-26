@@ -72,6 +72,9 @@
 |10972|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔴|| 24.05.25 |
 |10973|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10973)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10973.py)|🔵||  |
 |10819|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/10819)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10819.py)|🔵||  |
+|6603|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/6603)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6603.py)|🔵|| 24.05.26 |
+|1759|G5|브루트 포스|[📄](https://www.acmicpc.net/problem/1759)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1759.py)|🔵||  |
+|14501|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/14501)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/14501.py)|🔵||  |
 
 
 
@@ -80,11 +83,12 @@
 
 
 <!--
-|10972|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔵|| 24.05.25 |
+|6603|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/6603)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6603.py)|🔵|| 24.05.26 |
 🔵⚪🔴
 
 
 
-|10971|S2|브루트 포스|[📄](https://www.acmicpc.net/problem/10971)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10971.py)|🔵||  |
+|14501|S3|브루트 포스|[📄](https://www.acmicpc.net/problem/14501)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/14501.py)|🔵||  |
+
 -->
 
