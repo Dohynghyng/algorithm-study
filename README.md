@@ -2,18 +2,18 @@
 |-------|----|------------|---|----------------------------------------------------------------------------------------------|---|--|----------|
 | 1463  | S3 | 다이나믹 프로그래밍 |[📄](https://www.acmicpc.net/problem/1463)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/1463.py)  |🔵|| 24.05.03 |
 | 11726 | S3 | 다이나믹 프로그래밍 |[📄](https://www.acmicpc.net/problem/11726)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/11726.py) |🔴|🔵|          |
-|10430|B5| 기초         |[📄](https://www.acmicpc.net/problem/10430)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10430.py)|🔵|| 24.05.04 |
-|2609|B1| 기초         |[📄](https://www.acmicpc.net/problem/2609)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2609.py)|🔵||          |
-|1934|B1| 기초         |[📄](https://www.acmicpc.net/problem/1934)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1934.py)|🔵||          |
-|1978|B2| 기초         |[📄](https://www.acmicpc.net/problem/1978)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1978.py)|🔵||          |
-|1929|S3| 기초         |[📄](https://www.acmicpc.net/problem/1929)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1929.py)|🔵||          |
-|6588|S1| 기초         |[📄](https://www.acmicpc.net/problem/6588)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/6588.py)|🔵||          |
-|10430|B5| 자료 구조      |[📄](https://www.acmicpc.net/problem/10430)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10430.py)|🔵|| 24.05.05 |
-|2609|B1| 자료 구조      |[📄](https://www.acmicpc.net/problem/2609)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2609.py)|🔵||          |
-|1934|B1| 자료 구조      |[📄](https://www.acmicpc.net/problem/1934)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1934.py)|🔵||          |
-|1978|B2| 자료 구조      |[📄](https://www.acmicpc.net/problem/1978)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1978.py)|🔵||          |
-|1929|S3| 자료 구조      |[📄](https://www.acmicpc.net/problem/1929)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1929.py)|🔵||          |
-|6588|S1| 자료 구조      |[📄](https://www.acmicpc.net/problem/6588)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/6588.py)|🔵||          |
+|10430| B5 | 기초         |[📄](https://www.acmicpc.net/problem/10430)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10430.py)|🔵|| 24.05.04 |
+|2609| B1 | 기초         |[📄](https://www.acmicpc.net/problem/2609)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2609.py)|🔵||          |
+|1934| B1 | 기초         |[📄](https://www.acmicpc.net/problem/1934)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1934.py)|🔵||          |
+|1978| B2 | 기초         |[📄](https://www.acmicpc.net/problem/1978)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1978.py)|🔵||          |
+|1929| S3 | 기초         |[📄](https://www.acmicpc.net/problem/1929)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1929.py)|🔵||          |
+|6588| S1 | 기초         |[📄](https://www.acmicpc.net/problem/6588)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/6588.py)|🔵||          |
+|10430| B5 | 자료 구조      |[📄](https://www.acmicpc.net/problem/10430)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10430.py)|🔵|| 24.05.05 |
+|2609| B1 | 자료 구조      |[📄](https://www.acmicpc.net/problem/2609)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2609.py)|🔵||          |
+|1934| B1 | 자료 구조      |[📄](https://www.acmicpc.net/problem/1934)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1934.py)|🔵||          |
+|1978| B2 | 자료 구조      |[📄](https://www.acmicpc.net/problem/1978)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1978.py)|🔵||          |
+|1929| S3 | 자료 구조      |[📄](https://www.acmicpc.net/problem/1929)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1929.py)|🔵||          |
+|6588| S1 | 자료 구조      |[📄](https://www.acmicpc.net/problem/6588)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/6588.py)|🔵||          |
 | 11727 | S3 | 다이나믹 프로그래밍 |[📄](https://www.acmicpc.net/problem/11727)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/11727.py) |🔵|| 24.05.06 |
 | 9095  | S3 | 다이나믹 프로그래밍 |[📄](https://www.acmicpc.net/problem/9095)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/9095.py)  |⚪|🔵|          |
 | 11052 | S1 | 다이나믹 프로그래밍 |[📄](https://www.acmicpc.net/problem/11052)| [🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Dynamic%20Programming/11052.py) |🔴|🔵|          |
@@ -69,17 +69,22 @@
 |15664| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15664)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15664.py)|🔵||          |
 |15665| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15665)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15665.py)|🔵||          |
 |15666| S2 | 재귀 함수      |[📄](https://www.acmicpc.net/problem/15666)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Recursive/15666.py)|🔵||          |
-|10972|S3| 브루트 포스     |[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔴|| 24.05.25 |
-|10973|S3| 브루트 포스     |[📄](https://www.acmicpc.net/problem/10973)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10973.py)|🔵||  |
-|10819|S2| 브루트 포스     |[📄](https://www.acmicpc.net/problem/10819)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10819.py)|🔵||  |
-|6603|S2| 브루트 포스     |[📄](https://www.acmicpc.net/problem/6603)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6603.py)|🔵|| 24.05.26 |
-|1759|G5| 브루트 포스     |[📄](https://www.acmicpc.net/problem/1759)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1759.py)|🔵||  |
-|14501|S3| 브루트 포스     |[📄](https://www.acmicpc.net/problem/14501)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/14501.py)|🔵||  |
-|1935|S1| 자료구조       |[📄](https://www.acmicpc.net/problem/1935)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1935.py)|🔵|| 24.05.27 |
-|10808|B4|자료구조|[📄](https://www.acmicpc.net/problem/10808)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10808.py)|🔵||  |
-|10809|B2|자료구조|[📄](https://www.acmicpc.net/problem/10809)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10809.py)|🔵||  |
-|10820|B2|자료구조|[📄](https://www.acmicpc.net/problem/10820)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10820.py)|🔵||  |
-|2743|B5|자료구조|[📄](https://www.acmicpc.net/problem/2743)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/2743.py)|🔵||  |
+|10972| S3 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/10972)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10972.py)|🔴|| 24.05.25 |
+|10973| S3 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/10973)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10973.py)|🔵||  |
+|10819| S2 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/10819)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/10819.py)|🔵||  |
+|6603| S2 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/6603)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/6603.py)|🔵|| 24.05.26 |
+|1759| G5 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/1759)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1759.py)|🔵||  |
+|14501| S3 | 브루트 포스     |[📄](https://www.acmicpc.net/problem/14501)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/14501.py)|🔵||  |
+|1935| S1 | 자료구조       |[📄](https://www.acmicpc.net/problem/1935)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/1935.py)|🔵|| 24.05.27 |
+|10808| B4 | 자료구조       |[📄](https://www.acmicpc.net/problem/10808)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10808.py)|🔵||  |
+|10809| B2 | 자료구조       |[📄](https://www.acmicpc.net/problem/10809)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10809.py)|🔵||  |
+|10820| B2 | 자료구조       |[📄](https://www.acmicpc.net/problem/10820)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/10820.py)|🔵||  |
+|2743| B5 | 자료구조       |[📄](https://www.acmicpc.net/problem/2743)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/2743.py)|🔵||  |
+|10872| B3 | 수학         |[📄](https://www.acmicpc.net/problem/10872)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10872.py)|🔵|| 24.05.28|
+|1676| S5 | 수학         |[📄](https://www.acmicpc.net/problem/1676)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1676.py)|🔵||  |
+|2004|S2| 수학         |[📄](https://www.acmicpc.net/problem/2004)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2004.py)|🔵||  |
+|9613|S4| 수학         |[📄](https://www.acmicpc.net/problem/9613)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/9613.py)|🔵||  |
+|17087|S2|수학|[📄](https://www.acmicpc.net/problem/17087)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17087.py)|🔵||  |
 
 
 
@@ -87,12 +92,12 @@
 
 
 <!--
-|1935|S1|브루트 포스|[📄](https://www.acmicpc.net/problem/1935)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Brute%20Force/1935.py)|🔵|| 24.05.27 |
+|10872|S1|브루트 포스|[📄](https://www.acmicpc.net/problem/10872)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10872.py)|🔵|| 24.05.28|
 🔵⚪🔴
 
 
 
-|2743|B5|자료구조|[📄](https://www.acmicpc.net/problem/2743)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/2743.py)|🔵||  |
+|17087|S2|수학|[📄](https://www.acmicpc.net/problem/17087)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17087.py)|🔵||  |
 
 -->
 
