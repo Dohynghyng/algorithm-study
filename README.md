@@ -82,9 +82,13 @@
 |2743| B5 | 자료구조       |[📄](https://www.acmicpc.net/problem/2743)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Data%20Structure/2743.py)|🔵||  |
 |10872| B3 | 수학         |[📄](https://www.acmicpc.net/problem/10872)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10872.py)|🔵|| 24.05.28|
 |1676| S5 | 수학         |[📄](https://www.acmicpc.net/problem/1676)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1676.py)|🔵||  |
-|2004|S2| 수학         |[📄](https://www.acmicpc.net/problem/2004)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2004.py)|🔵||  |
-|9613|S4| 수학         |[📄](https://www.acmicpc.net/problem/9613)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/9613.py)|🔵||  |
-|17087|S2|수학|[📄](https://www.acmicpc.net/problem/17087)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17087.py)|🔵||  |
+|2004| S2 | 수학         |[📄](https://www.acmicpc.net/problem/2004)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2004.py)|🔵||  |
+|9613| S4 | 수학         |[📄](https://www.acmicpc.net/problem/9613)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/9613.py)|🔵||  |
+|17087| S2 |수학|[📄](https://www.acmicpc.net/problem/17087)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17087.py)|🔵||  |
+|1373| B1 |수학|[📄](https://www.acmicpc.net/problem/1373)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1373.py)|🔵|| 24.05.29|
+|1212| B2 |수학|[📄](https://www.acmicpc.net/problem/1212)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1212.py)|🔵|||
+|2089| S2 |수학|[📄](https://www.acmicpc.net/problem/2089)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/2089.py)|🔵|||
+|17103|S2|수학|[📄](https://www.acmicpc.net/problem/17103)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17103.py)|🔵|||
 
 
 
@@ -92,12 +96,12 @@
 
 
 <!--
-|10872|S1|브루트 포스|[📄](https://www.acmicpc.net/problem/10872)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/10872.py)|🔵|| 24.05.28|
+|1373|B1|수학|[📄](https://www.acmicpc.net/problem/1373)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/1373.py)|🔵|| 24.05.29|
 🔵⚪🔴
 
 
 
-|17087|S2|수학|[📄](https://www.acmicpc.net/problem/17087)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17087.py)|🔵||  |
+|17103|S2|수학|[📄](https://www.acmicpc.net/problem/17103)|[🔑](https://github.com/Dohynghyng/algorithm-study/blob/main/Basic/17103.py)|🔵|||
 
 -->
 
